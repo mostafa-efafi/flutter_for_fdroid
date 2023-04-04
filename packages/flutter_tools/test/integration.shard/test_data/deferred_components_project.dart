@@ -217,7 +217,6 @@ class BasicDeferredComponentsConfig extends DeferredComponentsConfig {
 
   dependencies {
       implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
-      implementation "com.google.android.play:core:1.8.0"
   }
 
   ''';
